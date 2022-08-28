@@ -54,6 +54,7 @@ text-align: center;
     .nav-bar{
         height: 50px;
         display: flex;
+        gap: 20px;
         justify-content:space-around;
     }
     .welcome-container{
